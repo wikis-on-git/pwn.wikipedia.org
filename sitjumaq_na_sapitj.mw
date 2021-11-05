@@ -26,18 +26,30 @@ __NOTOC__
 </div>
 <!-- 頂欄結束 -->
 
-{| id="mp-upper" style="margin:0; background:none; background: transparent;background-color:#fff;  margin-top:10px"
-<!--     =====================   Wikipedia  ====================     -->
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
+<!--------------------------------
+2.1 Ayoka pataki
+---------------------------------->
 |-
+|
 <inputbox>
  type      = create
- width     = 60
+ width     = 30
  bgcolor   = #ffffff
  preload   = Template:Standard content for new page
  editintro = Template:Instructions
  default   =
 </inputbox>
+|-
+|}
+
+
+<!--------------------------------
+ ÍNDICE F7F7FF
+---------------------------------->
+
 </div>
+
 
 <div class="center"> [[pinakisumaljiyan:PrefixIndex/Wp/pwn| Paiwan Wikipedia 的所有頁面]]
 
