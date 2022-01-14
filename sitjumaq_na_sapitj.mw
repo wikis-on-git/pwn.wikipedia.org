@@ -9,11 +9,11 @@
 <div style="margin:5px 0px 5px 0px;-moz-box-shadow:1px 1px 1px rgba(0, 0, 0, 0.1);-webkit-box-shadow:1px 1px 1px rgba(0, 0, 0, 0.1);box-shadow:1px 1px 1px rgba(0, 0, 0, 0.1);background:#FFFFFF;padding:10px;">
 {| style="width:100%;
 | class="" style="background-repeat:no-repeat; background-position:-40px -15px; text-align:center; padding:15px; vertical-align:middle; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |<span style="color:#555555;font-size:3.5em; font-family:Maiandra GD; font-variant:small; line-height:100%;" class="hp-welkom-1">wikipidiya nua pinayuanan</span><br />
-<span style="color:#555555;font-size:1.3em;line-height:100%;" class="hp-welkom-2">sivecivecik tua tja kineljangan a pinayuanan i kacauan</span>
+<span style="color:#555555;font-size:1.3em;line-height:100%;" class="hp-welkom-2">sivaruvarung a sapitj a pidiya</span>
 | class="hp-statistieken hlist" style="width:40%;text-align:center;vertical-align:middle;border-left:1px solid #cccccc;padding:15px;"|
 <span style="display:inline-block;text-align:center;">
-izuanga '''{{NUMBEROFARTICLES}}''' a sapitj a vinecikan a patje tucu<br />
-ma '''{{NUMBEROFACTIVEUSERS}}''' izua semeljuseljudj imaza<br />
+izuanga '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' a sapitj a vinecikan a patje tucu<br />
+a tja sivecivecik tua tja kineljangan a pinayuanan i kacauan<br />
 </span>
 |}
 </div>
