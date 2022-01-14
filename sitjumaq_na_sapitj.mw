@@ -1,28 +1,141 @@
-<!-- 頂欄開始 -->
-
-__NOEDITSECTION__
-__NOTOC__
-<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
-
-{| width="100%"
-| <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[sineqetj a vecik:Wikipedia-logo-v2-200px-transparent.png|225px|link=|Wikipedia Phiêu-chì]]</div>
-|-
-| style="width:100%; text-align:center; white-space:nowrap; color:#38b;" |
-<div style="font-size:222%; border:none; margin:0; padding:.1em; color:#000;"> wikipedia nua pinayuanan</div>
-<div style="top:+0.2em; font-size:102%;"> izua '''{{NUMBEROFARTICLES}}''' a vecik</div>
-<div style="color:542;"> wikipedia nua pinayuanan</div>
-|style="width:100%; font-size:95%; color:#000; text-align:left;"|
-{|style="width:100%; background:transparent;"
-| style="width:10%; font-size:99%;" |
-|}
-<td width="340px" style="border-left:1px solid #DDD;" valign="middle" align="center" rowspan="2">
-
-</td>
+</div>
+<div class=style="top:10px; overflow:hidden; position:relative;">
+<div style="background: white; padding-left: -1em; padding-right: -1em; overflow: hidden; position: relative;">
+<div style="position: absolute; width: 100%; overflow: hidden; margin-left: -1em; margin-right: -1em; margin-bottom: -90px;">
+<div align=right style="margin-right: 10px; margin-top: 3px; opacity: 0.30;">[[File:Wikipedia Education Globe 1.png|150px]]</div>
+</div>
+<div style="background:#fafafa;color:#333333;" class="hp">
+<!-- TITOLA EKO-->
+<div style="margin:5px 0px 5px 0px;-moz-box-shadow:1px 1px 1px rgba(0, 0, 0, 0.1);-webkit-box-shadow:1px 1px 1px rgba(0, 0, 0, 0.1);box-shadow:1px 1px 1px rgba(0, 0, 0, 0.1);background:#FFFFFF;padding:10px;">
+{| style="width:100%;
+| class="" style="background-repeat:no-repeat; background-position:-40px -15px; text-align:center; padding:15px; vertical-align:middle; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |<span style="color:#555555;font-size:3.5em; font-family:Maiandra GD; font-variant:small; line-height:100%;" class="hp-welkom-1">wikipidiya nua pinayuanan</span><br />
+<span style="color:#555555;font-size:1.3em;line-height:100%;" class="hp-welkom-2">sivecivecik tua tja kineljangan a pinayuanan i kacauan</span>
+| class="hp-statistieken hlist" style="width:40%;text-align:center;vertical-align:middle;border-left:1px solid #cccccc;padding:15px;"|
+<span style="display:inline-block;text-align:center;">
+izuanga '''{{NUMBEROFARTICLES}}''' a sapitj a vinecikan a patje tucu<br />
+ma '''{{NUMBEROFACTIVEUSERS}}''' izua semeljuseljudj imaza<br />
+</span>
 |}
 </div>
-<!-- 頂欄結束 -->
 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
+{|
+<!-- MULA KANDUNGAN (ATAS) -->
+<table width="100%" id="mp-upper"><td width="100%">
+<div style="width:100%;flex-direction: row;display: flex;justify-content: space-between;margin-top:5px;">
+<!-- MULA RENCANA PILIHAN -->
+<div style="background:#F9F0F4;box-shadow:0 0 0.3rem #999;border-left:8px solid #272727;width:calc(100% - 2.5px);margin-right:5px;">
+<div style="background:#fafafa;"><div class ="lamanutama-songket-kiri" style="padding:2px 18px;">
+<span style="font-family:sans-serif;font-variant:small;font-size:2em;>makagu</span>
+</div></div>
+<div id="mp-left" style="background:#F0F0F0;padding:10px;>
+<!-- MULA KANDUNGAN RENCANA PILIHAN -->
+[[File:Shalawan Waterfall in mountains in Majia.jpg|200px|right]]
+<div id="mp-tfa">aicu a '''[[Wp/pwn/Majia|Makagu]]''' i maza i 'akaw i viriviri a pasakacedas a kinaizuanan, a tjaizaya izua a sancigu, a tjaipasakacedas nakidjekec tua budaygu, a tjaikaledep izua a naibugu, a i tjaikaledep a pasanavalj izua 萬巒鄉, a tjailauz izua a daybugu, mavan a tjaljakedrikedrian a kadjunangan tua i taiwan saka inika napacalivat tua taiday a 平方公里 a na kacalisian a guan. aicu a i maza i makagu a i 'iziyuci(三和村) namasan"huyti", i vecekadan tua cangzegu(長治鄉),neybugu(內埔鄉),ianbugu(鹽埔鄉). aicu a i makagu a kinaizuanan i maza i tua vecekadan tua gadu nua i taiwan(中央山脈) a i navanavalj, a i kavulungan a pasaviri, naremekutj saka pazangal a sivaikan a kinakemudan, azua a kinavukuljan katua kinakalicekuan namakeljang aravac, azua a kina'adavan namasanmaculjuculju a kinavaliyan(熱帶季風氣候), tjatjuruvu a sepaywanzuku a cawcau izua.</div>
+<!-- TAMAT KANDUNGAN RENCANA PILIHAN -->
+</div>
+</div>
+</div>
+|}
+{|
+<!-- MULA KANDUNGAN (ATAS) -->
+<table width="100%" id="mp-upper"><td width="100%">
+<div style="width:100%;flex-direction: row;display: flex;justify-content: space-between;margin-top:15px;">
+<!-- MULA RENCANA PILIHAN -->
+<div style="background:#F9F0F4;box-shadow:0 0 0.3rem #999;border-left:8px solid #993366;width:calc(100% - 2.5px);margin-right:5px;">
+<div style="background:#fafafa;"><div class ="lamanutama-songket-kiri" style="padding:2px 18px;">
+<span style="font-family:sans-serif;font-variant:small;font-size:2em;>COVID-19</span>
+</div></div>
+<div id="mp-left" style="background:#F9F0F4;padding:10px;>
+<!-- MULA KANDUNGAN RENCANA PILIHAN -->
+[[File:Fphar-11-00937-g001.jpg|left|260px]]
+<div id="mp-tfa">'''[[Wp/pwn/COVID-19|COVID-19]]''' aicu a seljayar sa saqetjuan sewuhan nua i ciuku tucu. 
+
+aicu a venecikan na penaywanan a “saqetju” avan a ngadan na saqetjuan, matu nu kilutulutud kata saljengseng. nu qivu ta saqetjuan nua paiwan, tjara qivu tua kinacavacavan tiamadju, matu saqetju a qulu, saqetju a tjiyalj. sa izuaga uta a ngadan na saqetjuan, matu ljaljeqel, tjeljivalivali, maqesang, makeving, maqurabu, qacen, qimang, puzengzenga, puqutal, guragur, lemuin, minvalak, pudru, kaljumatang, qamljuc, gulaca, pasariang, zalangezan, cikiray, mangilu.
+</div>
+<!-- TAMAT KANDUNGAN RENCANA PILIHAN -->
+</div>
+</div>
+</div>
+|}
+
+{|
+<!-- MULA KANDUNGAN (ATAS) -->
+<table width="100%" id="mp-upper"><td width="100%">
+<div style="width:100%;flex-direction: row;display: flex;justify-content: space-between;margin-top:15px;">
+<!-- MULA RENCANA PILIHAN -->
+<div style="background:#F0F0F0;box-shadow:0 0 0.3rem #999;border-left:8px solid #272727;width:calc(100% - 2.5px);margin-right:5px;">
+<div style="background:#fafafa;"><div class ="lamanutama-songket-kiri" style="padding:2px 18px;">
+<span style="font-family:sans-serif;font-variant:small;font-size:2em;>tjakudrang i tjuabar</span>
+</div></div>
+<div id="mp-left" style="background:#F0F0F0;padding:10px;>
+<!-- MULA KANDUNGAN RENCANA PILIHAN -->
+
+[[File:Tjuabar Suspension Bridge05.jpg|right|200px]]
+<div id="mp-tfa">aicu a '''[[Wp/pwn/tjakudrang i tjuabar|tjakudrang]]''' i tjuabar mavan a imaza i pasa taituking daren a tjuacaqu a panan a tjakudrang. na lemingdjelj ka 1938 a caviljan. tazua nasepaiwan a kacalisian i tjuabar kata dralendren a qinaljan sipacacevung sinan pazangal a tjakudrang. tucu namasan ta namapukeljang a kivangvangan i daren. 
+<br>aicu a tjakudrang i tjuabar naliningdjelj ka 1938 a caviljan puluq sa drusa a qiljasan, nua setjuabar kata ladrengdren a sipakazuanan a sinan pazangal a tjakudrang kasicuayan na i qinaljan tjuruvu a maqacuvucuvung sinimasasudju patjatjauvalit ta tjengelayan a kadjunangan. avan nu izua pinaka pinaka “sudju a tjakudrang” a siaya. nu secevung tua masalut a kinakalevelevan, aza sikataqaljan nu qemacuvung ta sengsengan, pangetjez a semamaza itua qapulu na tjekeza sa semenay tua sipapuluqeluqem sa kiqaung tu paseqeljing nua cemas.</div>
+
+<!-- TAMAT KANDUNGAN RENCANA PILIHAN -->
+</div>
+</div>
+</div>
+|}
+<!-- MULA KANDUNGAN (ATAS) -->
+<table width="100%" id="mp-upper"><td width="100%">
+<div style="width:100%;flex-direction: row;display: flex;justify-content: space-between;margin-top:15px;">
+<!-- MULA RENCANA PILIHAN -->
+<div style="background:#F0F9F0;box-shadow:0 0 0.3rem #999;border-left:8px solid #009000;width:calc(55% - 2.5px);margin-right:5px;">
+<div style="background:#fafafa;"><div class ="lamanutama-songket-kiri" style="padding:2px 18px;">
+<span style="font-family:sans-serif;font-variant:small;font-size:2em;>djulis</span>
+</div></div>
+<div id="mp-left" style="background:#F0F9F0;padding:10px;>
+<!-- MULA KANDUNGAN RENCANA PILIHAN -->
+<div id="mp-tfa">a '''[[Wp/pwn/djulis|djulis]]''' (Chenopodium formosanum), lami nua caucau a se Paiwan, valeljevelj aravac a qiljas nua vangalj nua aicu a djulis, tucu tjuruvu anga tjengelay a keman tua Julia.
+
+namasan pazangal aravac a djulis tua talem i kacalisian, azua a vat a pinaka a lavi. alapen ta tjanguaq a djulis nua djulis tua dremasi, sa kivat tua pizua i djilung. nu venusamanga, azua a djulis a mavananga a tjaqaca a tapuluq a marutaljudjuqan, sa uri masik a caucau tua sinanljaceng ta sipakan, avan a suma. azua a vat nua djulis a maqati a sipakan, sa sanguaq angata, ljawa pazangal a saliman taicu a djulis.</div>
+<div style="float:center;">
+<gallery mode=packed-hover heights=250px>
+<!--<gallery mode=packed-overlay heights=180px>-->
+<!--<gallery mode=slideshow heights=80px>-->
+File:紅藜.jpeg|djulis
+</gallery>
+</div>
+<!-- TAMAT KANDUNGAN RENCANA PILIHAN -->
+</div>
+</div>
+<!-- TAMAT RENCANA PILIHAN -->
+<!-- MULA BERITA TERKINI -->
+<div style="background:#F9F9F0;box-shadow:0 0 0.3rem #999;border-left:8px solid #999933;width:calc(45% - 2.5px);">
+<div style="background:#fafafa;"><div class ="lamanutama-songket-kiri" style="padding:2px 18px;">
+<span style="font-family:sans-serif;font-variant:small;font-size:2em;>maljasiya</span>
+</div></div>
+<div id="mp-right" style="background:#F9F9F0;padding:10px;>
+<!-- MULA KANDUNGAN BERITA TERKINI -->
+<div id="mp-itn"><div style="float:center;">
+<gallery mode=packed-hover heights=180px>
+<!--<gallery mode=packed-overlay heights=180px>-->
+<!--<gallery mode=slideshow heights=80px>-->
+Kuala Lumpur Skyline at dusk 1.jpg|[[File:Flag of Malaysia.svg|70px|link=]]
+</gallery>
+</div>
+<div>
+pakata caucau imaza i '''[[Wp/pwn/Malaysia|maljasiya]]''', izua tjelu kuzulj sa itaiday sa pitju puluq a kudrav a caucau, mavan a sikamasan sepatjmuluq sa tjelu i kacawan. au pakata pulingetjan nua kadjunangan nua maljasiya izua tu 329,847km², mavan a sikamasan unempuluq sa alu i kacawan. aicu pimaza itua tja pasaviri a cetau, mavan ljaicu a kemasi 1° patje 8° a viri a curis a venatj na kacawan (izua kedri a kadjunangan imaza i pasanavalj a 1° a curis a venatj na kacauan), mavan auta kemasi 99° patje 120° a kacedas a curis a semevec na kacawan. aicu a pinaljavakan pimaza itua tja maljasiya mavan a kadjunangan i pasakacedas kata pasakeledep (馬來西亞半島 nua aya).</span>
+</div>
+<!-- TAMAT KANDUNGAN BERITA TERKINI -->
+</div>
+</div>
+<!-- TAMAT BERITA TERKINI -->
+</div>
+</td></table>
+<!-- TAMAT KANDUNGAN (ATAS) -->
+
+{| style="border-spacing: 1px; border-collapse: separate; width:100%; text-align:center; font-size:0.9em; padding:2px 3px 2px 3px;" class="hp-portalen"
+| style="background-color:#F0F0F0;border-top:10px solid;border-color:#272727;padding:3px 0.25em; width:11.1%;" | [[:Kategorio:Arto|<span style="color:#000000; font-size:1rem">kai nua i pasakacedas</span>]]
+| style="background-color:#F0F9F0;border-top:10px solid;border-color:#009000;padding:10px 0.25em; width:11.1%;" | [[:Kategorio:Homoj|<span style="color:#000000;font-size:1rem">kai nua i pasanavalj</span>]]
+| style="background-color:#F9F9F0;border-top:10px solid;border-color:#999933;padding:3px 0.25em; width:11.1%;" | [[:Kategorio:Filozofio|<span style="color:#000000;font-size:1rem">kai nua i pasavecekadan</span>]]
+| style="background-color:#F9F0F4;border-top:10px solid;border-color:#993366;padding:3px 0.25em; width:11.1%;" | [[:Kategorio:Geografio|<span style="color:#000000;font-size:1rem">kai nua i pasaviri</span>]]
+|}
+{| style="border-spacing: 1px; border-collapse: separate; width:100%; text-align:center; font-size:0.9em; padding:2px 3px 2px 3px;" class="hp-portalen"
+| style="background-color:#DDDDDD;border-top:10px solid;border-color:#DDDDDD;padding:3px 0.25em; width:11.1%;" | 
 <!--------------------------------
 2.1 Ayoka pataki
 ---------------------------------->
@@ -39,9 +152,3 @@ __NOTOC__
 </inputbox>
 |-
 |}
-
-
-
-{{pinakisumaljiyan:所有頁面}}
-
-[[File:Paiwan Wikimedians User Group banner.jpg|center|500px|link=https://meta.wikimedia.org/wiki/Paiwan_Wikimedians_User_Group]]
