@@ -5,4 +5,12 @@ madjaludjalu manu pazangal a pinasusuan mavan aicu '''sasusuan ni pitaguras''' (
 
 ==sinisupuan==
 
+: <math>a^2 + b^2 = c^2 .</math>
+
+: <math> c = \sqrt{a^2 + b^2}. </math>
+
+: <math>a = \sqrt{c^2 - b^2} </math>
+
+: <math>b = \sqrt{c^2 - a^2}. </math>
+
 [[en:Pythagorean theorem]]
