@@ -19,6 +19,13 @@ saka, aicu a tja kineljang tu nu kemeljang itjen ta laladruqan nua matjadrusa a 
 ===sipatjavat a pakasalu===
 [[File:Pythagoras algebraic2.svg|right|150px]]
 a tja sipatjavat a masan sepatj a tjelu a putung a pinapeseljang.
+:<math>(b+a)^2 = c^2 + 4\frac{ab}{2} = c^2+2ab,</math>
+
+:<math>c^2 = (b+a)^2 - 2ab = b^2+2ab+a^2-2ab = a^2 + b^2.</math>
+
+:<math>(b-a)^2+4\frac{ab}{2} = (b-a)^2+2ab = b^2-2ab+a^2+2ab = a^2+b^2. </math>
+
+:<math>c^2 = a^2 + b^2. </math>
 
 ==kaizuan==
 [[en:Pythagorean theorem]]
